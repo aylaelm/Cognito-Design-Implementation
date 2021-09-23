@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+}
+@font-face {
+  font-family: "Segoe UI";
+  src: local("Segoe UI"), url(../public/Segoe\UI.ttf) format("truetype");
+
+  font-family: "Segoe UI Bold";
+  src: local("Segoe UI Bold"),
+    url(../public/Segoe\UI\Bold.ttf) format("truetype");
+}
+
+.h2 {
+  font-family: Segoe UI;
+}
